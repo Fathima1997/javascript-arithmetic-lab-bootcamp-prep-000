@@ -17,3 +17,7 @@ function divide(a, b) {
 function incrementor(n) {
   return n++;
 }
+
+function decrementor(n) {
+  return n--;
+}
